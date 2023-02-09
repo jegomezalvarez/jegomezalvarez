@@ -1,4 +1,9 @@
-### Hi there 👋
+### ¡Hola, Mundo! 👋
+
+Me llamo Jesús. Siempre estuve interesado en el mundo de la tecnología y las telecomunicaciones. Debido a esto soy ingeniero de Telecomunicación (2013) y posteriormente hice un máster de data (2022).
+
+### Contacto 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JES%C3%9AS%20G%C3%93MEZ-blue?logo=linkedin)](https://www.linkedin.com/in/jegomezalvarez)
 
 <!--
 **jegomezalvarez/jegomezalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
